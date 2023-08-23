@@ -1,5 +1,5 @@
 # GPT-from-scratch
-A from scratch implementation of a GPT language model, trained on the TinyStories dataset with GPT-2 tokeniser. The goal of this project is to show how a small language model can still generate creative and coherent stories.
+A from scratch implementation of a GPT language model, trained on the TinyStories dataset with GPT-2 tokeniser. The goal of this project is to show how a small language model can still generate creative and coherent text in English.
 
 ## Requirements
 - Python 3.8+ 
