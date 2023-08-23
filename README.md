@@ -1,5 +1,5 @@
 # GPT-TinyStories-PyTorch
-A PyTorch re-implementation of GPT (Generative Pre-trained Transformer), trained on the TinyStories dataset with GPT-2 tokeniser. The goal of this project is to show how a small language model can still generate creative and coherent text in English.
+A re-implementation of GPT in PyTorch, both training and inference. The model trained on the TinyStories dataset with GPT-2 tokeniser. The goal of this project is to show how a small language model can still generate creative and coherent text in English.
 
 ## Requirements
 - Python 3.8+ 
