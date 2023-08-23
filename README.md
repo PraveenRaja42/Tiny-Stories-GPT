@@ -10,6 +10,7 @@ A re-implementation of GPT language model in PyTorch, both training and inferenc
 ## Model Parameters
 The model has ~89 million parameters
 
+You can download the model weights [here](https://drive.google.com/file/d/1--BtivGT6trvg9ZhQABgBLFQLuynAGrM/view?usp=sharing) 
 ## Usage
 To train the model, clone the repo and run the following command:
 
