@@ -1,11 +1,16 @@
 # Tiny Stories GPT
 A re-implementation of GPT language model in PyTorch, both training and inference. The model is trained on the TinyStories dataset with GPT-2 tokeniser. The goal of this project is to show how a small language model can still generate creative and coherent text in English. 
 
-## Requirements
-- Python 3.8 or higher
-- PyTorch 1.8 or higher
-- tiktoken 0.1.0 or higher 
-- Datasets 1.11.0 or higher  
+## install 
+```bash
+pip install torch numpy datasets tiktoken
+```
+### Dependencies
+- pytorch 1.8 or higher
+- numpy
+- `datasets` for huggingface datasets (if you want to download + preprocess TinyStories)
+- `tiktoken` for OpenAI's fast BPE code (GPT-2 Tokenizer)
+  
 
 ## Model Parameters
 The model has ~89 million parameters
