@@ -20,21 +20,21 @@ You can download the model weights [here](https://drive.google.com/file/d/1LjW9v
 To train the model, clone the repo and run the following command:
 
 ```bash
-python gpt.py
+$ python gpt.py
 ```
 You can change the dataset, hyperparameters, and save directory as you wish. once the training is completed, the model will generate 10000 new tokens. The generated text is printed and saved to the generated.txt file.
 
 To generate stories, run the following command:
 
 ```bash
-python generate.py
+$ python generate.py
 ```
 This will generate a sequence of 500 tokens from the model.
 
 To print the tokens as the model generates, run the following command:
 
 ```bash
-python sample.py
+$ python sample.py
 ```
 
 ## Examples
