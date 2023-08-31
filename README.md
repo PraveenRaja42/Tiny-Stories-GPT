@@ -6,8 +6,8 @@ A re-implementation of GPT language model in PyTorch, both training and inferenc
 pip install torch numpy datasets tiktoken
 ```
 ### Dependencies
-- pytorch 1.8 or higher
-- numpy
+- [pytorch](https://pytorch.org/) 1.8 or higher
+- [numpy](https://numpy.org/install/)
 - `datasets` for huggingface datasets (if you want to download + preprocess TinyStories)
 - `tiktoken` for OpenAI's fast BPE code (GPT-2 Tokenizer)
   
