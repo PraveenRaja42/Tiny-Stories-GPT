@@ -15,7 +15,7 @@ pip install torch numpy datasets tiktoken
 ## Model Parameters
 The model has ~89 million parameters
 
-You can download the model weights [here](https://drive.google.com/file/d/1LjW9vGqtwUG-oVyul_nYw25RFKQ4etvV/view?usp=sharing) 
+You can download the model weights [here](https://drive.google.com/file/d/1WvXWFL12wLq6G6Q1t6WARstAedJ3oltI/view?usp=drive_link) 
 ## Usage
 To train the model, clone the repo and run the following command:
 
